@@ -1,0 +1,48 @@
+addres:183.14.164.117
+{"overridden": true, "filename": "test", "action": "put", "size": 0}
+addres:183.14.164.117
+{"path": "None", "action": "ls"}
+addres:183.14.164.117
+{"action": "put", "size": 0, "overridden": true, "filename": "test"}
+addres:183.14.164.117
+{"action": "put", "size": 0, "overridden": true, "filename": "test"}
+addres:183.14.164.117
+{"action": "put", "size": 4, "overridden": true, "filename": "test"}
+addres:183.14.164.117
+{"overridden": true, "filename": "test", "size": 4, "action": "put"}
+addres:183.14.164.117
+{"path": "None", "action": "ls"}
+addres:183.14.164.117
+{"filename": "test.new", "action": "get"}
+addres:183.14.164.117
+{"path": "None", "action": "ls"}
+addres:183.14.164.117
+{"filename": "test.new", "action": "get"}
+addres:183.14.164.117
+{"action": "ls", "path": "None"}
+addres:183.14.164.117
+{"action": "get", "filename": "test.new"}
+addres:183.14.164.117
+{"action": "ls", "path": "None"}
+[Errno 104] Connection reset by peer[Errno 104] Connection reset by peer[Errno 104] Connection reset by peer[Errno 104] Connection reset by peer
+[Errno 104] Connection reset by peer
+[Errno 104] Connection reset by peer
+[Errno 104] Connection reset by peer
+addres:183.14.164.117
+{"path": "None", "action": "ls"}
+[Errno 104] Connection reset by peer
+addres:183.14.164.117
+{"path": "None", "action": "ls"}
+addres:183.14.164.117
+{"path": "None", "action": "ls"}
+addres:183.14.164.117
+{"action": "ls", "path": "None"}
+[Errno 104] Connection reset by peer
+addres:183.14.164.117
+{"path": "None", "action": "ls"}
+addres:183.14.164.117
+{"filename": "test", "action": "get"}
+addres:183.14.164.117
+{"path": "None", "action": "ls"}
+addres:183.14.164.117
+{"action": "get", "filename": "test"}
